@@ -1,0 +1,14 @@
+
+.env
+
+
+__pycache__/
+
+
+*.parquet
+
+
+product-recommender-ui/node_modules/
+
+
+product-recommender-ui/dist/
