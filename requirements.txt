@@ -1,0 +1,17 @@
+fastapi
+gdown
+google-generativeai
+ipywidgets
+matplotlib
+numpy
+pandas
+Pillow
+pinecone
+python-dotenv
+seaborn
+sentence-transformers
+timm
+torch
+torchvision
+tqdm
+uvicorn[standard]
